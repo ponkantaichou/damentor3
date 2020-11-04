@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Mentor.create(name: "鈴木さん")
+Mentor.create(name: "田中さん")
+Mentor.create(name: "山本さん")
+Mentor.create(name: "松本さん")
