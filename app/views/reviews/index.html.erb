@@ -15,12 +15,27 @@
                 <div class="star-rating-back">★★★★★</div>
               </div>
               <div class="average-score-display ml-3 pt-2">
-                点（件のレビュー）
+                
               </div>
             </div>
           </div>
         </div>
-        <%= render 'reviews/form', review: @review, mentor: @mentor %>
+        <table class="table is-fullwidth has-text-centered">
+          <thead>
+            <tr>
+              <th>ユーザー</th><th>点数</th><th>内容</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% @reviews.each do |review| %>
+              <tr>
+                <td><%= review.user.nickname %></td>
+                <td><%= review.score %></td>
+                <td><%= review.content %></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>

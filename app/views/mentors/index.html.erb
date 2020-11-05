@@ -23,6 +23,12 @@
               </div>
             </div>
             <footer class="card-footer">
+              <%= link_to mentor_reviews_path(mentor), class: "button card-footer-item" do %>
+              レビューを見る
+              <% end %>
+              <%= link_to mentor_path(mentor), class: "button card-footer-item" do %>
+              レビューを書く
+              <% end %>
             </footer>
           </div>
         <% end %>
