@@ -1,14 +1,31 @@
 <section class="section mt-6">
   <div class="container">
     <div class="columns is-centered">
-      <div class="column is-10">
-          <p class="is-size-1 has-text-weight-bold has-text-centered">駄目ンターを撲滅しよう！</p>
+      <div class="good">
+          <p class="is-size-1 has-text-weight-bold has-text-centered god">駄目ンターを撲滅しよう！</p>
           <br>
           <div class="columns is-centered">
-            <div class="column is-3">
-              <%= link_to "ログイン", new_user_session_path, class: "button is-fullwidth" %>
+            <div class="column is-10">
+            <br>
+              <% if !user_signed_in? %>
+                <%= link_to "ログイン", new_user_session_path, class: "button is-fullwidth" %>
+                <br>
+                <%= link_to "新規登録", new_user_registration_path, class: "button is-fullwidth" %>
+              <% end %> 
               <br>
-              <%= link_to "新規登録", new_user_registration_path, class: "button is-fullwidth" %>
+              <p class="is-size-4 has-text-black has-text-centered outline">星４つ以上の神メンター</p>
+              <% @mentor.each do |mentor|%>
+              <% if mentor.avg_score >= 4 %>
+                <p class="is-size-4 has-text-centered outline"><%= "神メンター #{mentor.name}" %></P>
+              <% end %>
+              <%end%>
+              <br>
+              <p class="is-size-4 has-text-black has-text-centered outline">星２つ以下の糞メンター</p>
+              <% @mentor.each do |mentor|%>
+              <% if mentor.avg_score <= 2 %>
+                <p class="is-size-4 has-text-centered outline1"><%= "駄目ンター #{mentor.name}" %></P>
+              <% end %>
+              <%end%>
             </div>
           </div>
       </div>
