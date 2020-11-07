@@ -12,11 +12,12 @@ class ReviewsController < ApplicationController
       redirect_to mentor_reviews_path(@review.mentor)
     else
       @mentor = Mentor.find(params[:mentor_id])
-      render "mentor/show"
+      render 'mentor/show'
     end
   end
 
   private
+
   def review_params
     params.require(:review).permit(:mentor_id, :score, :content)
   end

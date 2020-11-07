@@ -4,6 +4,7 @@ class TechcampsController < ApplicationController
   end
 
   private
+
   def review_params
     params.require(:review).permit(:mentor_id, :score, :content)
   end
