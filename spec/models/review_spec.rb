@@ -1,8 +1,8 @@
 require 'rails_helper'
 RSpec.describe Review, type: :model do
-    before do
-      @review = FactoryBot.build(:review)
-    end
+  before do
+    @review = FactoryBot.build(:review)
+  end
 
   describe '全て正常に入力できた時レビューが成功する' do
     context 'レビューに成功する時' do
@@ -23,7 +23,6 @@ RSpec.describe Review, type: :model do
         @review.valid?
         expect(@review.errors.full_messages).to include("Content can't be blank")
       end
-
     end
   end
 end

@@ -17,7 +17,7 @@ class Mentor < ApplicationRecord
   end
 
   def self.search(search)
-    if search != ""
+    if search != ''
       Mentor.where('name LIKE(?)', "%#{search}%")
     else
       Mentor.all
