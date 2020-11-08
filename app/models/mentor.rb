@@ -15,4 +15,12 @@ class Mentor < ApplicationRecord
       reviews.average(:score).round(1).to_f * 100 / 5
     end
   end
+
+  def self.search(search)
+    if search != ''
+      Mentor.where('name LIKE(?)', "%#{search}%")
+    else
+      Mentor.all
+    end
+  end
 end

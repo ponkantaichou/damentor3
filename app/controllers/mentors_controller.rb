@@ -8,4 +8,9 @@ class MentorsController < ApplicationController
     @mentor = Mentor.find(params[:id])
     @review = Review.new
   end
+
+  def search
+    @mentors = Mentor.search(params[:keyword])
+    render :index
+  end
 end

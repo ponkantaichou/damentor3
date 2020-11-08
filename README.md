@@ -1,24 +1,26 @@
-# README
+# アプリケーション名：  駄目ンター
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要:  メンターさんのレビューを出来るアプリケーションです
 
-Things you may want to cover:
+# URL:  
 
-* Ruby version
+# 利用方法:
+  1,上部の「メンターさん一覧」をクリックしメンターさん一覧に遷移します。
+  2,レビューしたいメンターさんを選びます。
+  3,コメントと星の数を洗濯してレビューを投稿できます。（５段階評価です）
 
-* System dependencies
+  サーチ機能もついていますので調べたいメンターさんの名前を入力して検索できます。
 
-* Configuration
+# 目指した課題解決:  プログラミングスクールに通っている受講生をターゲットにしています。
+  匿名で投稿でき合わないメンターさんに時間を使わないようにできる為に作成できました。
 
-* Database creation
+# 洗い出した要件
+  1,
 
-* Database initialization
+# 実装した機能についてのGIFと説明
 
-* How to run the test suite
+# 実装予定の機能 エラーを投稿でき、どのメンターさんに解決して貰ったかを投稿できるように投稿フォームを実装予定です。
 
-* Services (job queues, cache servers, search engines, etc.)
+# データベース設計
 
-* Deployment instructions
-
-* ...
+# ローカルでの動作方法
