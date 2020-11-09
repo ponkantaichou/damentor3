@@ -68,3 +68,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bulma-rails'
 gem 'devise'
 gem 'pry-rails'
+gem 'seed-fu'
