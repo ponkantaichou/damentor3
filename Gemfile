@@ -69,3 +69,8 @@ gem 'bulma-rails'
 gem 'devise'
 gem 'pry-rails'
 gem 'seed-fu'
+
+group :production do
+  # gem ‘rails_12factor’
+  gem 'unicorn', '5.4.1'
+end
