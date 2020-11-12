@@ -51,5 +51,5 @@ test:
 production:
   <<: *default
   database: damentor3_production
-  username: damentor3
-  password: <%= ENV['DAMENTOR3_DATABASE_PASSWORD'] %>
+  username: root
+  password: <%= ENV['DATABASE_PASSWORD'] %>
