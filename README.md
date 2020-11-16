@@ -1,6 +1,14 @@
 # アプリケーション名：  駄目ンター<br>
 <br>
 
+## URL<br>
+  https://damentor3.herokuapp.com/<br>
+<br>
+
+## アプリケーション概要<br>
+  メンターさんのレビューを出来るアプリケーションです。<br>
+<br>
+
 ## 動作確認方法<br>
 1,WebブラウザGoogle Chromeの最新版を利用してアクセスしてください。<br>
 ただしデプロイ等で接続できないタイミングもございます。その際は少し時間をおいてから接続してください。<br>
@@ -8,14 +16,7 @@
 3,サンプルアドレスとパスワードを用意しています。<br>
 ・mail:  sample1@sample.com  password:  sample11<br>
 ・mail:  sample2@sample.com  password:  sample22<br>
-4,確認後、ログアウト処理をお願いします。
-
-## アプリケーション概要<br>
-  メンターさんのレビューを出来るアプリケーションです。<br>
-<br>
-
-## URL<br>
-  https://damentor3.herokuapp.com/<br>
+4,確認後、ログアウト処理をお願いします。<br>
 <br>
 
 ### 利用方法:<br>
@@ -29,7 +30,7 @@
 <br>
 
 ## 目指した課題解決:  プログラミングスクールに通っている受講生をターゲットにしています。<br>
-  匿名で投稿でき良いメンターさんを共有できるアプリを作成しました。<br>
+  匿名で投稿でき良いメンターさんの情報を共有できるアプリを作成しました。<br>
 <br>
 
 ## 洗い出した要件<br>
@@ -43,6 +44,10 @@
   3,サーチ機能の実装<br>
 <br>
 
+## 工夫した機能
+  1,サーチ機能をつけることで素早く特定のメンターさんの情報を取得できます。
+  2,評価の点数を小数点で表示できるようにしたことです。
+
 ## 実装予定の機能<br>
  エラーを投稿でき、どのメンターさんに解決して貰ったかを投稿できるように投稿フォームを実装予定です。<br>
 <br>
@@ -52,6 +57,4 @@
 <br>
 
 ## 開発環境<br>
-Ruby / Ruby on Rails / MySQL / GitHub / Heroku / Visual Studio Code<br>
-<br>
-
+Ruby / Ruby on Rails / MySQL / GitHub / Heroku / JavaScript / Visual Studio Code<br>
