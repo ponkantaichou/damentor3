@@ -1,6 +1,15 @@
 # アプリケーション名：  駄目ンター<br>
 <br>
 
+## 動作確認方法<br>
+1,WebブラウザGoogle Chromeの最新版を利用してアクセスしてください。<br>
+ただしデプロイ等で接続できないタイミングもございます。その際は少し時間をおいてから接続してください。<br>
+2,同時に複数の方がログインしている場合に、ログインできない可能性があります。<br>
+3,サンプルアドレスとパスワードを用意しています。<br>
+・mail:  sample1@sample.com  password:  sample11<br>
+・mail:  sample2@sample.com  password:  sample22<br>
+4,確認後、ログアウト処理をお願いします。
+
 ## アプリケーション概要<br>
   メンターさんのレビューを出来るアプリケーションです。<br>
 <br>
@@ -20,7 +29,7 @@
 <br>
 
 ## 目指した課題解決:  プログラミングスクールに通っている受講生をターゲットにしています。<br>
-  匿名で投稿でき合わないメンターさんに時間を使わないようにできる為に作成できました。<br>
+  匿名で投稿でき良いメンターさんを共有できるアプリを作成しました。<br>
 <br>
 
 ## 洗い出した要件<br>
@@ -39,18 +48,10 @@
 <br>
 
 ## データベース設計<br>
-https://gyazo.com/c61032d2a3c342636c4ef71a14928812<br>
+[![Image from Gyazo](https://i.gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf.png)](https://gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf)<br>
 <br>
 
 ## 開発環境<br>
 Ruby / Ruby on Rails / MySQL / GitHub / Heroku / Visual Studio Code<br>
 <br>
 
-## 動作確認方法<br>
-1,WebブラウザGoogle Chromeの最新版を利用してアクセスしてください。<br>
-ただしデプロイ等で接続できないタイミングもございます。その際は少し時間をおいてから接続してください。<br>
-2,同時に複数の方がログインしている場合に、ログインできない可能性があります。<br>
-3,サンプルアドレスとパスワードを用意しています。<br>
-・mail:  sample1@sample.com  password:  sample11<br>
-・mail:  sample2@sample.com  password:  sample22<br>
-4,確認後、ログアウト処理をお願いします。
