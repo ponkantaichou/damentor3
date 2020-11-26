@@ -2,7 +2,7 @@
 <br>
 
 ## URL<br>
-  https://damentor3.herokuapp.com/<br>
+  http://52.196.199.82/<br>
 <br>
 
 ## アプリケーション概要<br>
@@ -57,4 +57,4 @@
 <br>
 
 ## 開発環境<br>
-Ruby / Ruby on Rails / MySQL / GitHub / Heroku / JavaScript / Visual Studio Code<br>
+Ruby / Ruby on Rails / MySQL / GitHub / EC2 / JavaScript / Visual Studio Code<br>
