@@ -10,6 +10,8 @@
 <br>
 [![Image from Gyazo](https://i.gyazo.com/a57e6931baf51d39b0a537006a829a55.png)](https://gyazo.com/a57e6931baf51d39b0a537006a829a55)<br>
 
+[![Image from Gyazo](https://i.gyazo.com/803f984b65d744c64b71e5b0586a5c31.png)](https://gyazo.com/803f984b65d744c64b71e5b0586a5c31)<br>
+
 ## 動作確認方法<br>
 1,WebブラウザGoogle Chromeの最新版を利用してアクセスしてください。<br>
 ただしデプロイ等で接続できないタイミングもございます。その際は少し時間をおいてから接続してください。<br>
