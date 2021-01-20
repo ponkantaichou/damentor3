@@ -8,6 +8,7 @@
 ## アプリケーション概要<br>
   メンターさんのレビューを出来るアプリケーションです。<br>
 <br>
+[![Image from Gyazo](https://i.gyazo.com/a57e6931baf51d39b0a537006a829a55.png)](https://gyazo.com/a57e6931baf51d39b0a537006a829a55)<br>
 
 ## 動作確認方法<br>
 1,WebブラウザGoogle Chromeの最新版を利用してアクセスしてください。<br>
