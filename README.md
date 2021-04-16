@@ -58,11 +58,16 @@
 ## PHPでコードを書きました。（追加実装）<br>
 [![Image from Gyazo](https://i.gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8.png)](https://gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8)<br>
 
-[![Image from Gyazo](https://i.gyazo.com/3a96da9a32ac4946aa9105298d5eca0d.png)](https://gyazo.com/3a96da9a32ac4946aa9105298d5eca0d)<br>
+## Larabelでコードを書きました。（追加実装）<br>
+[![Image from Gyazo](https://i.gyazo.com/31da157f35d5f314b157b712992b74c4.png)](https://gyazo.com/31da157f35d5f314b157b712992b74c4)<br>
+
+[![Image from Gyazo](https://i.gyazo.com/d9f465f4196c238c457647743902f69f.png)](https://gyazo.com/d9f465f4196c238c457647743902f69f)<br>
 
 ## データベース設計<br>
 [![Image from Gyazo](https://i.gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf.png)](https://gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf)<br>
 <br>
+
+[![Image from Gyazo](https://i.gyazo.com/74a9790ab3b42e32521c39ef70f05d06.png)](https://gyazo.com/74a9790ab3b42e32521c39ef70f05d06)<br>
 
 ## 開発環境<br>
 Ruby / Ruby on Rails / MySQL / GitHub / EC2 / JavaScript / Visual Studio Code<br>
