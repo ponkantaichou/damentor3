@@ -2,7 +2,7 @@
 <br>
 
 ## URL<br>
-  http://52.196.199.82/<br>
+  https://damentor3.herokuapp.com/<br>
 <br>
 
 ## アプリケーション概要<br>
@@ -54,6 +54,11 @@
 ## 実装予定の機能<br>
  エラーを投稿でき、どのメンターさんに解決して貰ったかを投稿できるように投稿フォームを実装予定です。<br>
 <br>
+
+## PHPでコードを書きました。（追加実装）<br>
+[![Image from Gyazo](https://i.gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8.png)](https://gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8)<br>
+
+[![Image from Gyazo](https://i.gyazo.com/3a96da9a32ac4946aa9105298d5eca0d.png)](https://gyazo.com/3a96da9a32ac4946aa9105298d5eca0d)<br>
 
 ## データベース設計<br>
 [![Image from Gyazo](https://i.gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf.png)](https://gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf)<br>
