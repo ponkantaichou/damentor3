@@ -55,10 +55,10 @@
  エラーを投稿でき、どのメンターさんに解決して貰ったかを投稿できるように投稿フォームを実装予定です。<br>
 <br>
 
-## PHPでコードを書きました。（追加実装）<br>
+## 追加実装①（PHPを使った掲示板）<br>
 [![Image from Gyazo](https://i.gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8.png)](https://gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8)<br>
 
-## Larabelでコードを書きました。（追加実装）<br>
+## 追加実装②（Laravelによる投稿機能）<br>
 [![Image from Gyazo](https://i.gyazo.com/31da157f35d5f314b157b712992b74c4.png)](https://gyazo.com/31da157f35d5f314b157b712992b74c4)<br>
 
 [![Image from Gyazo](https://i.gyazo.com/74a9790ab3b42e32521c39ef70f05d06.png)](https://gyazo.com/74a9790ab3b42e32521c39ef70f05d06)<br>
