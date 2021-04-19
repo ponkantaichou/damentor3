@@ -7,9 +7,14 @@
 
 ## アプリケーション概要<br>
   メンターさんのレビューを出来るアプリケーションです。<br>
+  プログラミングスクールに通っている受講生をターゲットにしています。<br>
+  匿名で投稿でき良いメンターさんの情報を共有できるアプリを作成しました。<br>
 <br>
+
+### トップ画面<br>
 [![Image from Gyazo](https://i.gyazo.com/a57e6931baf51d39b0a537006a829a55.png)](https://gyazo.com/a57e6931baf51d39b0a537006a829a55)<br>
 
+### 検索画面
 [![Image from Gyazo](https://i.gyazo.com/803f984b65d744c64b71e5b0586a5c31.png)](https://gyazo.com/803f984b65d744c64b71e5b0586a5c31)<br>
 
 ## 動作確認方法<br>
@@ -30,10 +35,6 @@
   4,コメントと星の数を洗濯してレビューを投稿できます。（５段階評価です）<br>
 <br>
   サーチ機能もついていますので調べたいメンターさんの名前を入力して検索できます。<br>
-<br>
-
-## 目指した課題解決:  プログラミングスクールに通っている受講生をターゲットにしています。<br>
-  匿名で投稿でき良いメンターさんの情報を共有できるアプリを作成しました。<br>
 <br>
 
 ## 洗い出した要件<br>
@@ -59,11 +60,9 @@
 [![Image from Gyazo](https://i.gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8.png)](https://gyazo.com/3ccf3952dff4fae099ce0164d7e27ac8)<br>
 
 ## 追加実装②（Laravelによる投稿機能）<br>
-[![Image from Gyazo](https://i.gyazo.com/31da157f35d5f314b157b712992b74c4.png)](https://gyazo.com/31da157f35d5f314b157b712992b74c4)<br>
+[![Image from Gyazo](https://i.gyazo.com/220f0542210ad121692660062cd0a40e.png)](https://gyazo.com/220f0542210ad121692660062cd0a40e)<br>
 
-[![Image from Gyazo](https://i.gyazo.com/74a9790ab3b42e32521c39ef70f05d06.png)](https://gyazo.com/74a9790ab3b42e32521c39ef70f05d06)<br>
-
-[![Image from Gyazo](https://i.gyazo.com/d9f465f4196c238c457647743902f69f.png)](https://gyazo.com/d9f465f4196c238c457647743902f69f)<br>
+[![Image from Gyazo](https://i.gyazo.com/ed38a013424b212b1b2042849c8f6135.png)](https://gyazo.com/ed38a013424b212b1b2042849c8f6135)<br>
 
 ## データベース設計<br>
 [![Image from Gyazo](https://i.gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf.png)](https://gyazo.com/2e0ad8a9a876fa1660ffbc20ac5b57cf)<br>
